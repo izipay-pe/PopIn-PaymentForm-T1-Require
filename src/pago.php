@@ -58,6 +58,7 @@ require_once __DIR__ . '/FormToken.php';
       <div class="kr-embedded" kr-public-key="51447378:testpublickey_3SNSOCewrXOZNL2oNYoixUO4q9RaBwClYyCIEofTLGs2g"
        kr-post-url-success="../Ejemplo PHP JR/RespuestaIPN.php"
        kr-post-url-refused="/refused.php"
+       kr-popin
        kr-form-token="<?php echo $formtoken;?>">
 
 
