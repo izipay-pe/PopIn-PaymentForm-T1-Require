@@ -3,7 +3,7 @@
 Ejemplo de formulario pop-in para utilizar la librería Require dentro de tu proyecto, que te permitirá cargar los scripts de forma asíncrona.
 
 <p align="center">
-  <img src="/image/imagenes-readme/formulario-popin.png?raw=true" alt="Formulario"/>
+  <img src="/src/formulario_popin.png?raw=true" alt="Formulario"/>
 </p> 
 
 <a name="Requisitos_Previos"></a>
