@@ -8,7 +8,7 @@
   <img src="/src/formulario_popin.png?raw=true" alt="Formulario"/>
 </p> 
 
-## Este es un ejemplo de como poder integrar un formulario embebido utilizando la librería Require.js utilizando JavaScript. Este ejemplo es solo una guía para poder realizar la integración de la pasarela de pagos, puede realizar las modificaciones necesarias para su proyecto.
+## Este es un ejemplo de como poder integrar un formulario pop-in utilizando la librería Require.js utilizando JavaScript. Este ejemplo es solo una guía para poder realizar la integración de la pasarela de pagos, puede realizar las modificaciones necesarias para su proyecto.
 
 <a name="Requisitos_Previos"></a>
 
